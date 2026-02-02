@@ -1,5 +1,3 @@
-# Forest-warming
-
 # Warming strengthens microbial diversity control of forest soil CO₂ emission
 
 This repository contains the **analysis code and key datasets** associated with the manuscript:
